@@ -1,0 +1,6 @@
+Queen:Charles,Anne,Andrew,Edward
+Charles:William,Harry
+Anne:Peter,Zara
+Andrew:Beatrice,Eugenie
+Edward:Louise,James
+William:George,Charlotte
